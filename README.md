@@ -44,7 +44,7 @@ I'm a third-year Computer Science and Artificial Intelligence engineering studen
 
 ### 🤝 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: www.linkedin.com/in/lohith-h-a3b49730a
 - GitHub: You're already here!
 
 ---
