@@ -1,52 +1,30 @@
-# Hi there, I'm Lohith! 👋
+# Hi, I'm Lohith H
 
-### 👨‍💻 BE CSE – Artificial Intelligence Student | Aspiring Data Analyst & AI Engineer
+I'm a third-year BE student specializing in Computer Science and Artificial Intelligence at Maharaja Institute of Technology, Mysore.
 
-Welcome to my GitHub profile!
+I'm interested in Data Analytics, Artificial Intelligence and software development. I enjoy learning new technologies and working on projects.
 
-I'm a third-year Computer Science and Artificial Intelligence engineering student passionate about technology, data analytics, artificial intelligence and building practical solutions to real-world problems.
-
-### 🚀 About Me
-
-- 🎓 Pursuing BE in CSE – Artificial Intelligence.
-- 📊 Interested in Data Analytics and Data Science.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🌱 Continuously learning new technologies.
-- 💡 Interested in developing real-world projects.
-- 🎯 Working towards becoming a skilled Data Analyst and AI Engineer.
-
-### 💻 Technical Skills
-
-- Programming: Python
-- Database: MySQL, SQL
-- Data Analytics: Power BI, Data Analysis
-- Development: Flutter
-- Core Concepts: DBMS, Artificial Intelligence
-
-### 📂 Featured Projects
-
-**1. Blood Bank Management System**
-- A database-driven application for managing blood donors, recipients, donations and blood inventory.
-
-**2. SmartQueue**
-- A smart queue management solution designed to reduce waiting time and improve service efficiency.
-
-**3. InterviewLens AI**
-- An AI-powered mock interview platform concept focused on interview performance and behavioral analysis.
-
-### 📚 Currently Learning
-
-- Advanced SQL
+### Skills
+- Python
+- SQL & MySQL
 - Power BI
-- Data Visualization
+- Java
+- C++
+- Flutter
+- Git & GitHub
+
+### Projects
+- **Blood Bank Management System** – Managing blood donors, recipients and blood inventory.
+- **SmartQueue** – A queue management system to reduce waiting time.
+- **InterviewLens AI** – An AI-based mock interview platform.
+- **Visitor Management System** – A system for managing visitor information.
+
+### Currently Learning
+- Data Analytics
 - Machine Learning
-- Data Science
+- Power BI
+- Advanced SQL
 
-### 🤝 Connect With Me
-
+### Connect with me
 - LinkedIn: www.linkedin.com/in/lohith-h-a3b49730a
-- GitHub: You're already here!
-
----
-
-⭐ Thanks for visiting my profile!
+- GitHub: https://github.com/lohith190706-cmyk
