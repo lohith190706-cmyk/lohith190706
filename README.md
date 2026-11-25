@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="150" alt="Lohith's Profile Photo" />
+<img src="./assets/profile.jpg" width="160" alt="Lohith H" />
 
 # Lohith H
 
@@ -10,11 +10,15 @@
 
 Maharaja Institute of Technology, Mysore
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lohith-h-a3b49730a/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__lohith_25_/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/lohith190706-cmyk)
+<a href="https://www.linkedin.com/in/lohith-h-a3b49730a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.instagram.com/__lohith_25_/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+<a href="https://github.com/lohith190706-cmyk">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
@@ -22,14 +26,17 @@ Maharaja Institute of Technology, Mysore
 
 ## About Me
 
-I'm a third-year BE student specializing in Computer Science and Artificial Intelligence.
+I'm a third-year BE student specializing in Computer Science and Artificial Intelligence at Maharaja Institute of Technology, Mysore.
 
 I'm interested in Data Analytics, Artificial Intelligence and software development. I enjoy learning new technologies and building practical projects.
 
 - Pursuing BE in CSE – Artificial Intelligence.
 - Interested in Data Analytics and Data Science.
-- Exploring Artificial Intelligence and Machine Learning.
-- Working on academic and personal projects.
+- Exploring Machine Learning and Artificial Intelligence.
+- Building academic and personal projects.
+- Continuously improving my technical skills.
+
+---
 
 ## Technical Skills
 
@@ -48,6 +55,8 @@ I'm interested in Data Analytics, Artificial Intelligence and software developme
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Development Tools**
 
@@ -59,20 +68,38 @@ I'm interested in Data Analytics, Artificial Intelligence and software developme
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| Blood Bank Management System | Blood donor, recipient and inventory management. |
-| SmartQueue | Queue management system designed to reduce waiting time. |
-| InterviewLens AI | AI-powered mock interview platform. |
-| Visitor Management System | Digital visitor information management. |
+### 1. Blood Bank Management System
+
+A database management application for managing blood donors, recipients, donations and blood inventory.
+
+**Technologies:** Python, Flask, MySQL, Flutter.
+
+### 2. SmartQueue
+
+A smart queue management solution designed to reduce waiting time and improve service efficiency.
+
+**Technologies:** Flutter, Dart.
+
+### 3. InterviewLens AI
+
+An AI-powered mock interview platform focused on interview performance and behavioral analysis.
+
+**Focus:** Speech analysis and interview performance.
+
+### 4. Visitor Management System
+
+A software application designed to manage visitor information and records.
+
+---
 
 ## Currently Learning
 
-- Data Analytics
+- Python for Data Analytics
 - Advanced SQL
 - Power BI
-- Machine Learning
 - Data Visualization
+- Machine Learning
+- Data Science
 
 ---
 
@@ -80,7 +107,7 @@ I'm interested in Data Analytics, Artificial Intelligence and software developme
 
 <div align="center">
 
-![GitHub Stats](https://ghstats.dev/api/card?username=lohith190706-cmyk&theme=nord)
+<img src="https://github-readme-stats.vercel.app/api?username=lohith190706-cmyk&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Statistics" />
 
 </div>
 
@@ -88,15 +115,33 @@ I'm interested in Data Analytics, Artificial Intelligence and software developme
 
 <div align="center">
 
-![Top Languages](https://ghstats.dev/api/langs?username=lohith190706-cmyk&layout=bar&max_langs=6&theme=nord)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith190706-cmyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+**LinkedIn**
+
+https://www.linkedin.com/in/lohith-h-a3b49730a/
+
+**Instagram**
+
+https://www.instagram.com/__lohith_25_/
+
+**GitHub**
+
+https://github.com/lohith190706-cmyk
 
 </div>
 
 ---
 
 <div align="center">
-
-### Thanks for visiting my profile!
 
 *Always learning. Always building.*
 
