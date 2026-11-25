@@ -1,16 +1,34 @@
+<div align="center">
+
+<img src="assets/profile.jpg" width="150" alt="Lohith's Profile Photo" />
+
 # Lohith H
 
-**Computer Science & Artificial Intelligence Student | Aspiring Data Analyst**
+### Computer Science & Artificial Intelligence Student
 
-Third-year BE student at Maharaja Institute of Technology, Mysore. Interested in Data Analytics, Artificial Intelligence and software development. I enjoy learning new technologies and building practical projects.
+**Aspiring Data Analyst | AI & Machine Learning Enthusiast**
+
+Maharaja Institute of Technology, Mysore
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lohith-h-a3b49730a/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__lohith_25_/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/lohith190706-cmyk)
+
+</div>
 
 ---
 
 ## About Me
 
-- Pursuing BE in Computer Science & Artificial Intelligence.
-- Interested in Data Analytics and Artificial Intelligence.
-- Learning Python, SQL and Power BI.
+I'm a third-year BE student specializing in Computer Science and Artificial Intelligence.
+
+I'm interested in Data Analytics, Artificial Intelligence and software development. I enjoy learning new technologies and building practical projects.
+
+- Pursuing BE in CSE – Artificial Intelligence.
+- Interested in Data Analytics and Data Science.
+- Exploring Artificial Intelligence and Machine Learning.
 - Working on academic and personal projects.
 
 ## Technical Skills
@@ -23,8 +41,8 @@ Third-year BE student at Maharaja Institute of Technology, Mysore. Interested in
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Data Analytics**
 
@@ -39,38 +57,47 @@ Third-year BE student at Maharaja Institute of Technology, Mysore. Interested in
 
 ---
 
-## Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
-| Blood Bank Management System | Manages donors, recipients, donations and blood inventory. |
+| Blood Bank Management System | Blood donor, recipient and inventory management. |
 | SmartQueue | Queue management system designed to reduce waiting time. |
-| InterviewLens AI | AI-based mock interview platform. |
-| Visitor Management System | Manages visitor information and records. |
+| InterviewLens AI | AI-powered mock interview platform. |
+| Visitor Management System | Digital visitor information management. |
 
 ## Currently Learning
 
 - Data Analytics
-- Machine Learning
 - Advanced SQL
 - Power BI
+- Machine Learning
+- Data Visualization
 
 ---
 
 ## GitHub Statistics
 
+<div align="center">
+
 ![GitHub Stats](https://ghstats.dev/api/card?username=lohith190706-cmyk&theme=nord)
+
+</div>
 
 ## Most Used Languages
 
+<div align="center">
+
 ![Top Languages](https://ghstats.dev/api/langs?username=lohith190706-cmyk&layout=bar&max_langs=6&theme=nord)
+
+</div>
 
 ---
 
-## Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lohith-h-a3b49730a/)
+### Thanks for visiting my profile!
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
+*Always learning. Always building.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/lohith190706-cmyk)
+</div>
